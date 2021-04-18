@@ -124,7 +124,7 @@ function gameloop()
 	if(game_over==true)
 	{
 		clearInterval(f);
-		alert("gameisdesigned by jatin garg and its over buddy");
+		alert("gameisdesigned by rohit and its over buddy");
 	}
 	draw();
 	update();
